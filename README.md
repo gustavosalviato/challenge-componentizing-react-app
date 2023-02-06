@@ -1,10 +1,8 @@
-<h1 align="center"> Componentizando um aplicação em React </h1>
+<h1 align="center"> Componentizando uma aplicação em React </h1>
 
 <p align="center">
 Desafio complementar Ignite 2021 - Rockeatseat<br/>
 </p>
-
-<br>
 
 ## 💻 Projeto
 
